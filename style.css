@@ -1,0 +1,208 @@
+body {
+    font-family: Tahoma;
+    font-size: 15px;
+    width: 100%;
+    margin: 0px auto;
+}
+.contact {
+    width: 100%;
+    background: #742f1c;
+}
+.phone-address {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    margin-left: 40px;
+}
+.login-register {
+    flex-basis: 10%;
+    margin-left: 5px;
+}
+.icon-login {
+    content: url("ic-login.png");
+    margin-left: 10px;
+}
+.icon-mobile {
+    content: url("mobile.png");
+    margin-right: 5px;
+}
+.bold {
+    font-weight: 600;
+}
+.magin-address{
+    margin-left: 5px;
+}
+.hotline {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-basis: 70%;
+    width: 1140px;
+    margin: 0 auto;
+    height: 40px;
+    color: white;
+}
+
+.info-block {
+    width: 1140px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    align-items: center;
+}
+
+#Bactom {
+    height: 106px;
+    width: 214px;
+}
+
+div.image {
+    width: 100%;
+    height: 100%;
+    content: url("bactomm.png") ;
+}
+
+.option {
+    display: flex;
+    width: 64%;
+    height: 100%;
+    align-items: center;
+    margin-left: 40px;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home-page {
+    width: 100%;
+    height: 50px;
+    background: #742f1c;
+}
+.fa {
+    display: inline-block;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+.fa-shopping-bag:before {
+    content: url("tuisach.png");
+}
+.bg {
+    background: #62bb46;
+    display: inline-block;
+    padding: 0px 20px;
+    border-radius: 15px;
+    line-height: 36px;
+    color: white;
+}
+
+.oto {
+    content: url("oto.png");
+    margin-right: 10px;
+}
+.thu {
+    content: url("thu.png");
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.dongho {
+    content: url("dongho.png");
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 148px;
+    margin-top: 20px;
+}
+
+.slide {
+    content: url("banner.png");
+    /*flex-basis: 70%;*/
+    margin-right: 270px;
+}
+
+.import {
+    border-radius: 15px;
+    height: 20px;
+}
+.icon-kinhlup {
+    content: url("icon-kinhlup.png");
+    margin-right: 100px;
+}
+.ic-address {
+    content: url("icon-address.png");
+    margin-left: 20px;
+}
+.category {
+    background: #742f1c;
+    border-radius: 15px;
+    padding: 6px 70px;
+
+    color: white;
+}
+
+.list {
+    margin: 0;
+    line-height: 24px;
+    padding: 10px;
+}
+.list-boder {
+    border-bottom: 1px solid;
+}
+.icon-muiten {
+    content: url("muiten.png");
+}
+.bg-green {
+    background: #62bb46;
+    font-size: 17px;
+    padding: 15px;
+    width: 115px;
+    border: none;
+    color: white;
+}
+
+/*combo sổ xuống*/
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropbtn {
+    background-color: #742f1c;
+    font-size: 15px;
+    color: white;
+    padding: 14px;
+    border: none;
+    width: 157px;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #62bb46;}
+/*hết combo sổ xuống*/
+
+
+
