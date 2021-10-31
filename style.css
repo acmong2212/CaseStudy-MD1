@@ -20,11 +20,11 @@ body {
     margin-left: 5px;
 }
 .icon-login {
-    content: url("ic-login.png");
+    content: url("image/ic-login.png");
     margin-left: 10px;
 }
 .icon-mobile {
-    content: url("mobile.png");
+    content: url("image/mobile.png");
     margin-right: 5px;
 }
 .bold {
@@ -62,7 +62,7 @@ body {
 div.image {
     width: 100%;
     height: 100%;
-    content: url("bactomm.png") ;
+    content: url("image/bactomm.png") ;
 }
 
 .option {
@@ -90,7 +90,7 @@ div.image {
     -webkit-font-smoothing: antialiased;
 }
 .fa-shopping-bag:before {
-    content: url("tuisach.png");
+    content: url("image/tuisach.png");
 }
 .bg {
     background: #62bb46;
@@ -102,16 +102,16 @@ div.image {
 }
 
 .car {
-    content: url("oto.png");
+    content: url("image/oto.png");
     margin-right: 10px;
 }
 .letters {
-    content: url("thu.png");
+    content: url("image/thu.png");
     margin-right: 10px;
     margin-left: 15px;
 }
 .clock {
-    content: url("dongho.png");
+    content: url("image/dongho.png");
     margin-right: 10px;
     margin-left: 15px;
 }
@@ -143,11 +143,11 @@ div.image {
     height: 20px;
 }
 .icon-magnifyingGlass {
-    content: url("icon-kinhlup.png");
+    content: url("image/icon-kinhlup.png");
     margin-right: 100px;
 }
 .ic-address {
-    content: url("icon-address.png");
+    content: url("image/icon-address.png");
     margin-left: 20px;
 }
 .product-list {
@@ -198,22 +198,22 @@ div.image {
     margin-top: -95px;
 }
 .flower {
-    content: url("hoala.png");
+    content: url("image/hoala.png");
     margin-top: 25px;
     margin-left: 25px;
 }
 .PaternalGrandFather {
-    content: url("onglao.png");
+    content: url("image/onglao.png");
     margin-top: 25px;
     margin-left: 25px;
 }
 .qrcode {
-    content: url("qrcode.png");
+    content: url("image/qrcode.png");
     margin-top: 25px;
     margin-left: 25px;
 }
 .icon-muiten {
-    content: url("muiten.png");
+    content: url("image/muiten.png");
 }
 .bg-green {
     background: #62bb46;
@@ -288,113 +288,113 @@ div.image {
 
 }
 .MelonFruit {
-    content: url("muophuong.png");
+    content: url("image/muophuong.png");
     padding: 20px;
     width: 100%;
 }
 .cucumber {
-    content: url("duachuot.png");
+    content: url("image/duachuot.png");
     padding: 20px;
     width: 100%;
 }
 .BlackCarp {
-    content: url("catram.png");
+    content: url("image/catram.png");
     padding: 20px;
     width: 100%;
 }
 .banana {
-    content: url("quachuoi.png");
+    content: url("image/quachuoi.png");
     padding: 20px;
     width: 100%;
 }
 .eggs {
-    content: url("trung.png");
+    content: url("image/trung.png");
     padding: 20px;
     width: 100%;
 }
 .salmon {
-    content: url("cahoi.png");
+    content: url("image/cahoi.png");
     padding: 20px;
     width: 100%;
 }
 .porkleg {
-    content: url("gio.png");
+    content: url("image/gio.png");
     padding: 20px;
     width: 100%;
 }
 .spinach {
-    content: url("rauden.png");
+    content: url("image/rauden.png");
     padding: 20px;
     width: 100%;
 }
 .potato {
-    content: url("khoailang.png");
+    content: url("image/khoailang.png");
     padding: 20px;
     width: 100%;
 }
 .chicken {
-    content: url("thitga.png");
+    content: url("image/thitga.png");
     padding: 20px;
     width: 100%;
 }
 .Logan {
-    content: url("quanhan.png");
+    content: url("image/quanhan.png");
     padding: 20px;
     width: 100%;
 }
 .Tofu {
-    content: url("dauphu.png");
+    content: url("image/dauphu.png");
     padding: 20px;
     width: 100%;
 }
 
 .bean {
-    content: url("dautrach.png");
+    content: url("image/dautrach.png");
     padding: 20px;
     width: 100%;
 }
 .carrot {
-    content: url("carot.png");
+    content: url("image/carot.png");
     padding: 20px;
     width: 100%;
 }
 .veal {
-    content: url("thitbe.png");
+    content: url("image/thitbe.png");
     padding: 20px;
     width: 100%;
 }
 .watermelon {
-    content: url("duahau.png");
+    content: url("image/duahau.png");
     padding: 20px;
     width: 100%;
 }
 .HotSpringRolls {
-    content: url("banhgio.png");
+    content: url("image/banhgio.png");
     padding: 20px;
     width: 100%;
 }
 
 .ChoySum {
-    content: url("raucaingong.png");
+    content: url("image/raucaingong.png");
     padding: 20px;
     width: 100%;
 }
 .spinacia-oleracea {
-    content: url("raumongtoi.png");
+    content: url("image/raumongtoi.png");
     padding: 20px;
 }
 .beef {
-    content: url("thitdiembo.png");
+    content: url("image/thitdiembo.png");
     padding: 10px;
 }
 .dumplings {
-    content: url("banhbao.png");
+    content: url("image/banhbao.png");
     padding: 30px;
     margin-bottom: -121px;
 }
 
 .orange {
-    content: url("quacam.png");
+    content: url("image/quacam.png");
     padding: 10px;
 }
 
